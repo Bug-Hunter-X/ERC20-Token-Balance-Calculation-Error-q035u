@@ -1,0 +1,1 @@
+This repository contains a bug report and solution for an ERC20 token contract. The bug involves an incorrect calculation of token balances, which can lead to inaccurate balances and potential security vulnerabilities. The solution provides a corrected balanceOf function that accurately calculates balances.
